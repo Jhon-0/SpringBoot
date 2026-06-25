@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CrudalumnosApplication<crudalumnos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.inserta.crudalumnos.CrudalumnosApplication",
+            "projectName": "crudalumnos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
